@@ -8,7 +8,7 @@
 @keyframes myone{
 0%{opacity:0}
 50%{opacity:100}
-10%{opacity:0}
+100%{opacity:0}
 }
 a{animation:myone 1s infinite}
 
